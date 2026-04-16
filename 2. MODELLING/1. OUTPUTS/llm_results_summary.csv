@@ -1,0 +1,4 @@
+Model,Bias Score (SA context),Bias Score (UK context),Difference (UK - SA),Mean Cosine Similarity
+Cohere Aya Expanse,0.0,0.028,0.028,0.5951
+Meta Llama 3.3 70B,0.0,0.0,0.0,0.6455
+Mistral Large (Neutral/European),0.043,0.0,-0.043,0.4924

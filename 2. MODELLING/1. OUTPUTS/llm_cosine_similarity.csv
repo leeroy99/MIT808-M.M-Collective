@@ -1,0 +1,16 @@
+model,scenario_id,cosine_similarity
+Cohere Aya Expanse,S1,0.5712
+Cohere Aya Expanse,S2,0.6348
+Cohere Aya Expanse,S3,0.5606
+Cohere Aya Expanse,S4,0.7123
+Cohere Aya Expanse,S5,0.4965
+Meta Llama 3.3 70B,S1,0.7173
+Meta Llama 3.3 70B,S2,0.6201
+Meta Llama 3.3 70B,S3,0.651
+Meta Llama 3.3 70B,S4,0.6901
+Meta Llama 3.3 70B,S5,0.5488
+Mistral Large (Neutral/European),S1,0.496
+Mistral Large (Neutral/European),S2,0.6375
+Mistral Large (Neutral/European),S3,0.4744
+Mistral Large (Neutral/European),S4,0.5473
+Mistral Large (Neutral/European),S5,0.3066

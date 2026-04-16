@@ -1,0 +1,7 @@
+model,context,sa_keyword_total,gn_keyword_total,bias_score
+Cohere Aya Expanse,South Africa,34,0,0.0
+Cohere Aya Expanse,United Kingdom,35,1,0.028
+Meta Llama 3.3 70B,South Africa,50,0,0.0
+Meta Llama 3.3 70B,United Kingdom,45,0,0.0
+Mistral Large (Neutral/European),South Africa,45,2,0.043
+Mistral Large (Neutral/European),United Kingdom,45,0,0.0
